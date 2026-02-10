@@ -10,8 +10,6 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 
->Fascinado pela "Matrix" desde os 7 anos, quando ganhei meu primeiro computador.
->Comecei criando servidores para jogos, fazendo manutenção de hardware e, nesse período, tive contato com tecnologias como Java, Python, o clássico Ubuntu Server e algumas outras tecnologias WEB.
 
 ### Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nemmanc/)
